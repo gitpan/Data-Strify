@@ -1,0 +1,9 @@
+lib/Docs/Site_SVD/Data_Strify.pm
+MANIFEST
+Makefile.PL
+README
+lib/Data/Strify.pm
+t/Data/Strify.t
+tlib/File/SmartNL.pm
+tlib/Text/Scrub.pm
+tlib/Test/Tech.pm
